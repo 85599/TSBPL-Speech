@@ -16,15 +16,20 @@ So talking about the task, this task is given to us as a project by Ajay Gangwal
 # Why TSBPL ?
 
 
-### T is for treasure💎, that of your friendship.
+#### T is for treasure💎, that of your friendship.
 
-### S is for Shining ✨, that is Necessary. 
+#### S is for Shining ✨, that is Necessary. 
 
-### B is for Bright💡, friends seek you.
+#### B is for Bright💡, friends seek you.
 
-### P is for Powerful🙆‍♀️, always open to new possibilities.
+#### P is for Powerful🙆‍♀️, always open to new possibilities.
 
-### L is for Liberal📃, especially when it counts, always impartial.
+#### L is for Liberal📃, especially when it counts, always impartial.
+
+
+# Tasks it can do for you:
+
+- It can change the voice depending on user input.
 
 
 
