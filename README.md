@@ -30,6 +30,24 @@ So talking about the task, this task is given to us as a project by Ajay Gangwal
 # Tasks it can do for you:
 
 - It can change the voice depending on user input.
+- It can tell you date, time, day and month.
+- It will wish you depending on the time of the day.
+- It can launch any windows based application for you like notepad, word, edge, chrome, calculator, calender, and the list goes long.
+- If you are feeling quite bored, it can tell you a random joke.
+- And if your mood is little low, don't worry, strydo will tell you a daily quote to stay motivated in life and in all situations:)
+- Ya, it can also do remote desktop connection for you ( if you have putty installed in your system, it will do it for you).
+- It can hibernate, sleep, log off and shutdown your PC.
+- It can also click a selfie for you.
+- It can recycle your recycling bin.Pretty much, right?
+- It can open file explorer.
+- It can also open common websites like google, youtube, twitter, facebook, linkedin, stackoverflow, etc.
+### Fun thing: Try asking strydo "play baby shark"
+- It can show you the calendar.
+- Can also show you the weather.
+- It can open windows settings for you.
+- Try giving a compliment to strydo "strydo you are great" or anything you want.
+- It can show you cooking recipes, can play any song for you.
+- It can search any query for you in the google.
 
 
 
