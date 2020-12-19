@@ -67,12 +67,16 @@ So talking about the task, this task is given to us as a project by Ajay Gangwal
 # Getting Started:
 
 - Clone this repository using git clone command in the location you find suitable in your PC:
-```sh
-$ git clone [repo-link]
 
-- To install the modules mentioned above in your system,first install python and then use the command given below:
-```sh 
-$ pip install [module name]
+> git clone [repo-link]
+
+-To install the modules mentioned above in your system,first install python and then use the command given below:
+
+> pip install [module name]
+
+-Now all the heavy-lifting is done! Head over to the location of the cloned repository. Run the following command:
+
+> python mysoftwaretemplate.py
 
 
 
