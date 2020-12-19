@@ -41,7 +41,7 @@ So talking about the task, this task is given to us as a project by Ajay Gangwal
 - It can recycle your recycling bin.Pretty much, right?
 - It can open file explorer.
 - It can also open common websites like google, youtube, twitter, facebook, linkedin, stackoverflow, etc.
-### Fun thing: Try asking strydo "play baby shark"
+##### Fun thing: Try asking strydo "play baby shark"
 - It can show you the calendar.
 - Can also show you the weather.
 - It can open windows settings for you.
