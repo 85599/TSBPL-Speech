@@ -13,6 +13,20 @@ So talking about the task, this task is given to us as a project by Ajay Gangwal
 
 ##### So I have used python to create this project. It will assist you to perform various task in windows operating system like you can launch any program in your pc.
 
-**Why TSBPL ?
+# Why TSBPL ?
+
+
+### T is for treasure💎, that of your friendship.
+
+### S is for Shining ✨, that is Necessary. 
+
+### B is for Bright💡, friends seek you.
+
+### P is for Powerful🙆‍♀️, always open to new possibilities.
+
+### L is for Liberal📃, especially when it counts, always impartial.
+
+
+
 
 
