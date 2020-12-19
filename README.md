@@ -7,7 +7,7 @@
 *Firstly, i would like to thank Ajay Gangwal sir for providing a great opportunity to students around the world to learn and grow together. I am greatly impressed by his idea to make students as the "CREATORS OF TECHNOLOGY" and not the followers. I feel myself really lucky that i got a mentor like him. The way he teaches is the best.
 So talking about the task, this task is given to us as a project by Ajay Gangwal Sir:
 
-###### "Convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text."
+> "Convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text."
 
 #### This is the initial step of making the voice assistant.
 
@@ -41,13 +41,27 @@ So talking about the task, this task is given to us as a project by Ajay Gangwal
 - It can recycle your recycling bin.Pretty much, right?
 - It can open file explorer.
 - It can also open common websites like google, youtube, twitter, facebook, linkedin, stackoverflow, etc.
-##### Fun thing: Try asking strydo "play baby shark"
+- Fun thing: Try asking TSBPl "play baby shark"
 - It can show you the calendar.
 - Can also show you the weather.
 - It can open windows settings for you.
 - Try giving a compliment to strydo "strydo you are great" or anything you want.
 - It can show you cooking recipes, can play any song for you.
 - It can search any query for you in the google.
+
+# Modules used for creating this voice assistant:
+
+- pyttsx3 (for giving voice output)
+- os (to use all the operating system commands in python language)
+- subprocess (to use the camera)
+- datetime (to show the date and time)
+- wikiquote (for fetching the daily quote)
+- time (for time)
+- pyjokes (to generate random jokes)
+- winshell (The winshell module is a light wrapper around the Windows shell functionality. It includes convenience functions for accessing special folders)
+- urllib.request (request is a Python module for fetching URLs (Uniform Resource Locators))
+- re (regular expression module- the functions in this module let you check if a particular string matches a given regular expression)
+- webbrowser (To display web based documents to users by using python)
 
 
 
