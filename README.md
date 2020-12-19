@@ -9,10 +9,10 @@ So talking about the task, this task is given to us as a project by Ajay Gangwal
 
 ###### "Convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text."
 
-####### This is the initial step of making the voice assistant.
+#### This is the initial step of making the voice assistant.
 
 ##### So I have used python to create this project. It will assist you to perform various task in windows operating system like you can launch any program in your pc.
 
-**Why TSBPL_ ?
+**Why TSBPL ?
 
 
